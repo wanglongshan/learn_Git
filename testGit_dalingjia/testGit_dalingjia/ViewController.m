@@ -7,9 +7,10 @@
 //
 
 #import "ViewController.h"
+#import <Masonry.h>
 
 @interface ViewController ()
-
+@property (nonatomic ,assign)NSInteger num;
 @end
 
 @implementation ViewController
