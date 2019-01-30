@@ -18,7 +18,16 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-    NSLog(@"今天周三，happy new year！");
+    self.view.backgroundColor = [UIColor whiteColor];
+    
+    NSLog(@"今天周三67890-，happy new year！2345");
+    
+    [self creatUI];
+}
+
+- (void)creatUI
+{
+    
 }
 
 
