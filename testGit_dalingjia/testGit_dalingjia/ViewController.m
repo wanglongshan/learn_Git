@@ -28,7 +28,7 @@
 
 - (void)creatUI
 {
-    NSLog(@"dfghjkl;");
+    NSLog(@"999");
 }
 
 

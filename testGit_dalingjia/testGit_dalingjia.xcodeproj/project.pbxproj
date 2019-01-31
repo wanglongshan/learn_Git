@@ -14,6 +14,7 @@
 		8A0A850D220186E400033D19 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A0A850C220186E400033D19 /* Assets.xcassets */; };
 		8A0A8510220186E400033D19 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A0A850E220186E400033D19 /* LaunchScreen.storyboard */; };
 		8A0A8513220186E400033D19 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A0A8512220186E400033D19 /* main.m */; };
+		8ABE5CA22202A07F0055F1C2 /* myTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 8ABE5CA12202A07F0055F1C2 /* myTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		8A0A850F220186E400033D19 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8A0A8511220186E400033D19 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8A0A8512220186E400033D19 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8ABE5CA02202A07F0055F1C2 /* myTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = myTool.h; sourceTree = "<group>"; };
+		8ABE5CA12202A07F0055F1C2 /* myTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myTool.m; sourceTree = "<group>"; };
 		D756B50177F9DCF69AEAD4D2 /* Pods-testGit_dalingjia.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testGit_dalingjia.debug.xcconfig"; path = "Pods/Target Support Files/Pods-testGit_dalingjia/Pods-testGit_dalingjia.debug.xcconfig"; sourceTree = "<group>"; };
 		E46F6307B9C4B924B7C729E4 /* Pods-testGit_dalingjia.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testGit_dalingjia.release.xcconfig"; path = "Pods/Target Support Files/Pods-testGit_dalingjia/Pods-testGit_dalingjia.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -86,6 +89,8 @@
 				8A0A8504220186E300033D19 /* AppDelegate.m */,
 				8A0A8506220186E300033D19 /* ViewController.h */,
 				8A0A8507220186E300033D19 /* ViewController.m */,
+				8ABE5CA02202A07F0055F1C2 /* myTool.h */,
+				8ABE5CA12202A07F0055F1C2 /* myTool.m */,
 				8A0A8509220186E300033D19 /* Main.storyboard */,
 				8A0A850C220186E400033D19 /* Assets.xcassets */,
 				8A0A850E220186E400033D19 /* LaunchScreen.storyboard */,
@@ -194,6 +199,7 @@
 				8A0A8508220186E300033D19 /* ViewController.m in Sources */,
 				8A0A8513220186E400033D19 /* main.m in Sources */,
 				8A0A8505220186E300033D19 /* AppDelegate.m in Sources */,
+				8ABE5CA22202A07F0055F1C2 /* myTool.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
