@@ -29,6 +29,12 @@
 - (void)creatUI
 {
     NSLog(@"999");
+    NSLog(@"666");
+}
+
+- (void)getData
+{
+    
 }
 
 
